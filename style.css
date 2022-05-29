@@ -1,0 +1,55 @@
+/*html{
+  background-image: url('https://images.pexels.com/photos/4590785/pexels-photo-4590785.jpeg');
+  background-size: cover;
+}*/
+#initialBoard {
+    float: left;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+#answerBoard {
+    margin-right: 10%;
+    margin-left: 10%;
+    float: right;
+    margin-top: 4%;
+}
+p{
+    font-size: 20px;
+}
+input{
+    font-size: 17px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 1px;
+    margin-right: 1px;
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+}
+button{
+position:center;
+background:    #15d798;
+border:        1px solid #556699;
+border-radius: 1000px;
+box-shadow:    0 3px #444444;
+padding:       20px 47px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 26px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   1px 1px #000000;
+}
+h2 {
+text-align: center;
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 40px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: uppercase;
+}
